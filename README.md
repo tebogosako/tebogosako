@@ -3,7 +3,7 @@
 
 🎓 Computer Science Graduate passionate about transforming data into actionable insights, building scalable data systems, and applying AI to solve real-world problems.
 
-🌍 I’m driven to use data to improve organizations, communities, and decision-making at scale.
+🌍 I’m driven to use data to improve organisations, communities, and decision-making at scale.
 
 ---
 
