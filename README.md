@@ -1,39 +1,39 @@
-# 👋 Hi, I’m Tebogo Sako  
+#  Hi, I’m Tebogo Sako  
 **`Data Analyst | Data Engineer | Data Science Enthusiast`** 📊🤖  
 
 🎓 Computer Science Graduate passionate about transforming data into actionable insights, building scalable data systems, and applying AI to solve real-world problems.
 
-🌍 I’m driven to use data to improve organisations, communities, and decision-making at scale.
+ I’m driven to use data to improve organisations, communities, and decision-making at scale.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 📊 Turn messy data into meaningful insights  
-- ⚙️ Build reliable ETL pipelines and data workflows  
-- ☁️ Work with cloud-based analytics platforms  
-- 🤖 Exploring machine learning & AI applications  
-- 🌱 Continuously learning and building real-world projects  
+-  Turn messy data into meaningful insights  
+-  Build reliable ETL pipelines and data workflows  
+-  Work with cloud-based analytics platforms  
+-  Exploring machine learning & AI applications  
+-  Continuously learning and building real-world projects  
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
-### 📊 Data Analysis
+###  Data Analysis
 - Data Cleaning & Transformation  
 - Exploratory Data Analysis (EDA)  
 - Statistical Insights & Reporting  
 - Dashboard Development  
 - Data Storytelling  
 
-### 🏗️ Data Engineering
+###  Data Engineering
 - ETL / ELT Pipeline Development  
 - Data Ingestion & Integration  
 - Data Modeling & Schema Design  
 - Data Warehousing  
 - Query Optimization  
 
-### 🤖 Data Science
+###  Data Science
 - Predictive Modeling Fundamentals  
 - Machine Learning Concepts  
 - Feature Engineering Basics  
@@ -41,9 +41,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📊 Analytics & BI Tools
+###  Analytics & BI Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -59,10 +59,10 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🛍️ Retail Sales Analytics Dashboard
-📊 End-to-end analytics project delivering business insights from retail sales data.
+###  Retail Sales Analytics Dashboard
+ End-to-end analytics project delivering business insights from retail sales data.
 
 **Key Contributions:**
 - Cleaned and transformed raw datasets  
@@ -74,8 +74,8 @@
 
 ---
 
-### ☕ Coffee Shop Sales Analysis (SQL + Cloud)
-📈 Cloud-based analytics project analyzing transactional sales data.
+###  Coffee Shop Sales Analysis (SQL + Cloud)
+ Cloud-based analytics project analyzing transactional sales data.
 
 **Key Contributions:**
 - Queried large datasets using SQL  
@@ -87,22 +87,22 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Tebogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tebogosako&show_icons=true&theme=gruvbox)
 
 ---
 
-## 🎯 Currently Focused On
+##  Currently Focused On
 
-- 🚀 Building portfolio-quality data projects  
-- ⚙️ Strengthening data engineering skills  
-- 🤖 Advancing in machine learning & AI  
-- ☁️ Expanding cloud data expertise  
+-  Building portfolio-quality data projects  
+-  Strengthening data engineering skills  
+-  Advancing in machine learning & AI  
+-  Expanding cloud data expertise  
 
 ---
 
-## 🤝 Open To Opportunities
+##  Open To Opportunities
 
 ✅ Data Analyst Roles  
 ✅ Junior Data Engineer Roles  
